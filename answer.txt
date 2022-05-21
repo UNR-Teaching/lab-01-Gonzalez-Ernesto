@@ -1,0 +1,5 @@
+3- The command ls displays the visible files inside the directory when combined with > and followed by a file's name such file is created and added to the list.
+
+5-It has newfile.txt in a list of changes to be committed
+
+6- The command display two versions of newfile.txt, the old version before the text was added, and the new version and the change made is highlighted in green.
